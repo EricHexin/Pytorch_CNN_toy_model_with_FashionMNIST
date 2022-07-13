@@ -1,0 +1,2 @@
+# Pytorch_toy_model_with_FashionMNIST
+Pytorch_toy_model_with_FashionMNIST
